@@ -1,4 +1,4 @@
-﻿# Fullstackloginpage
+﻿# Full stack login page
 A modern, fully functional login page built using HTML, CSS, and JavaScript for the front end, with a back end powered by Node.js and Express, and user data securely managed using an SQL database. This project demonstrates the integration of front-end and back-end technologies for authentication workflows.
 
 Features
